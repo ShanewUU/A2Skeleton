@@ -5,9 +5,9 @@
 This README contains detailed instructions for your assignment. Read it carefully.
 
 ### To do
-TODO - [Replace this text with your group member names]
-TODO - [Replace this text with your groups Student IDs]
-TODO - [Replace this text with your discord names]
+* TODO - [Replace this text with your group member names]
+* TODO - [Replace this text with your groups Student IDs]
+* TODO - [Replace this text with your discord names]
 
 ## Problem statement:
 Implement a simple calendar system. There are four main classes within the system. 'UUCalendar', 'UUEntry' and 'UUTime' are the key classes
