@@ -25,10 +25,10 @@ member functions or data members to the classes listed in the section 'Files to 
 * __DO NOT__ modify any other files in the repository. __Doing so could lead to a fail mark of 0%__
 
 ## Submission details
-__Deadline:__ Before midnight on 11/01/2019
-__Submission method:__ GitHub classroom & BBL. One submission per group to both BBL and Github. The student who submits on behalf of the team should email the module coordinator (s.wilson@ulster.ac.uk) to confirm that the group has submitted their assignment.
-__Assignment type:__ Group Assignment - group lists in BBL
-__Assignment weighting:__ 50% of coursework mark
+* __Deadline:__ Before midnight on 11/01/2019
+* __Submission method:__ GitHub classroom & BBL. One submission per group to both BBL and Github. The student who submits on behalf of the team should email the module coordinator (s.wilson@ulster.ac.uk) to confirm that the group has submitted their assignment.
+* __Assignment type:__ Group Assignment - group lists in BBL
+* __Assignment weighting:__ 50% of coursework mark
 
 ## Exceptions
 * You are not required to throw any Exceptions
