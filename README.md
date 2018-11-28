@@ -94,7 +94,7 @@ Your assignment mark will be based on the unit tests passed. The unit tests for 
 31 | Test UUCalendarAddEntryRepeatYearly | 4
 32 | Test UUCalendarAddEntryRepeatWeeklyClash	| 4
 33 | Test UUCalendarAddEntryRepeatMonthlyClash | 4
- |	Total  | 100
+  |	Total  | 100
 
 
 ## Running tests
