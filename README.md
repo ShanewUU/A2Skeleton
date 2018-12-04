@@ -67,9 +67,9 @@ Your assignment mark will be based on the unit tests passed. The unit tests for 
 4 |	Test UUTime SetTime function 1 |	2
 5	| Test UUTime SetTime function 2 |	2
 6 |	Test UUTime GetTime function |	2
-7 |	Test UUEntity Default Constructor|	2
+7 |	Test UUEntry Default Constructor|	2
 8 |	Test UUEntry custom constructor |	6
-9 |	Test UUEntity SetEntryDate |	1
+9 |	Test UUEntry SetEntryDate |	1
 10 | Test UUEntrySetEntryDuration 1 |	1
 11 | Test UUEntrySetEntryDuration 2 |	2
 12 | Test UUEntrySetEntryDateTime |	4
