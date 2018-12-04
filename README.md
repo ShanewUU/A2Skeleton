@@ -37,7 +37,7 @@ member functions or data members to the classes listed in the section 'Files to 
 * You are not required to take any input from the keyboard / file or output to the screen
 
 ## Constraints
-* You are not permitted to use '<ctime>' , '<chrono>'
+* You are not permitted to use `<ctime>`, `<chrono>` or any other time/date headers
 * You may swap the UUDate implementation and use your own
 * You must not change the public interface of the classes provided. You are encouraged to write your own private utility or support functions within each class as necessary.
 * It should not be possible to add a calendar entry if it overlaps with an existing entry.
