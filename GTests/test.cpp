@@ -178,7 +178,7 @@ TEST(UUTime, TestGetTime)
 	std::cout << "\nRunning test GetTime " << std::endl;
 
 	//Arrange
-	std::string expected_result{"8:27"};
+	std::string expected_result{"08:27"};
 	std::string actual_result{};
 	UUTime newTime{ 8,27 };
 
