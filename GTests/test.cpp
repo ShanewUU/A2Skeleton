@@ -203,9 +203,9 @@ TEST(UUTime, TestGetTime)
 	std::cout << "Current MARKS for asssignment 2: " << currentPoints << "/" << maxPoints << "\n" << std::endl;
 }
 
-//UUEntity tests
+//UUEntry tests
 
-TEST(UUEntity, TestUUEntryDefaultConstructor)
+TEST(UUEntry, TestUUEntryDefaultConstructor)
 {
 	std::cout << "\nRunning TestUUEntryDefaultConstructor " << std::endl;
 
@@ -247,7 +247,7 @@ TEST(UUEntity, TestUUEntryDefaultConstructor)
 	std::cout << "Current MARKS for asssignment 2: " << currentPoints << "/" << maxPoints << "\n" << std::endl;
 }
 
-TEST(UUEntity, TestUUEntryCustomConstructor)
+TEST(UUEntry, TestUUEntryCustomConstructor)
 {
 	std::cout << "\nRunning TestUUEntryCustomConstructor " << std::endl;
 
@@ -290,7 +290,7 @@ TEST(UUEntity, TestUUEntryCustomConstructor)
 	std::cout << "Current MARKS for asssignment 2: " << currentPoints << "/" << maxPoints << "\n" << std::endl;
 }
 
-TEST(UUEntity, TestUUEntrySetDate)
+TEST(UUEntry, TestUUEntrySetDate)
 {
 	std::cout << "\nRunning  Test UUEntry SetDate " << std::endl;
 
@@ -321,7 +321,7 @@ TEST(UUEntity, TestUUEntrySetDate)
 	std::cout << "Current MARKS for asssignment 2: " << currentPoints << "/" << maxPoints << "\n" << std::endl;
 }
 
-TEST(UUEntity, TestUUEntrySetDuration1)
+TEST(UUEntry, TestUUEntrySetDuration1)
 {
 	std::cout << "\nRunning TestUUEntry SetDuration 1  " << std::endl;
 
@@ -350,7 +350,7 @@ TEST(UUEntity, TestUUEntrySetDuration1)
 	std::cout << "Current MARKS for asssignment 2: " << currentPoints << "/" << maxPoints << "\n" << std::endl;
 }
 
-TEST(UUEntity, TestUUEntrySetDuration2)
+TEST(UUEntry, TestUUEntrySetDuration2)
 {
 	std::cout << "\nRunning TestUUEntry SetDuration 2 - with invalid data " << std::endl;
 
@@ -379,7 +379,7 @@ TEST(UUEntity, TestUUEntrySetDuration2)
 	std::cout << "Current MARKS for asssignment 2: " << currentPoints << "/" << maxPoints << "\n" << std::endl;
 }
 
-TEST(UUEntity, TestUUEntryDateTime)
+TEST(UUEntry, TestUUEntryDateTime)
 {
 	std::cout << "\nRunning TestUUEntryDateTime" << std::endl;
 
@@ -415,7 +415,7 @@ TEST(UUEntity, TestUUEntryDateTime)
 	std::cout << "Current MARKS for asssignment 2: " << currentPoints << "/" << maxPoints << "\n" << std::endl;
 }
 
-TEST(UUEntity, TestUUEntryReminder)
+TEST(UUEntry, TestUUEntryReminder)
 {
 	std::cout << "\nRunning TestUUEntry TestUUEntryReminderType" << std::endl;
 
