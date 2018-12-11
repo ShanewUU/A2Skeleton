@@ -12,7 +12,7 @@ This README contains detailed instructions for your assignment. Read it carefull
 ## Problem statement:
 Implement a simple calendar system. There are four main classes within the system. 'UUCalendar', 'UUEntry' and 'UUTime' are the key classes
 that you should implement. Skeleton outlines of these classes and a description of each member function's requirements are provided in the
-source code. __DO NOT__ change the signatures of the class member functions or the provide data members of the class. You can add your own utility
+source code. __DO NOT__ change the signatures of the class member functions or the provided data members of the class. You can add your own utility
 member functions or data members to the classes listed in the section 'Files to work on'. However, your code must provide the public member functions as specified in 'UUCalendar', 'UUEntry' and 'UUTime'.
 
 ## Files to work on
@@ -48,10 +48,10 @@ member functions or data members to the classes listed in the section 'Files to 
 ## Notes
 * We are using the Gregorian Calendar only
 * Make sure your code compiles and runs. __There are no points for code that doesn't compile__
-* You will receive marks for every test your code passes. Local tests are provided. Test your code before pushing to GitHub/Travis.
+* You will receive marks for every test your code passes. Local tests are provided. Test your code before pushing to GitHub/Travis-CI.
 * The initial code provided with this assignment will not compile. You will have to write the necessary implementation of the skeleton classes provided
 * Travis-CI uses the GCC compiler which is different to visual studio. Windows specific code will not compile in GCC. Ensure you __write portable C++ code__.
-* Ensure your code does not have any errors or warnings before pushing to Travis-CI.
+* Ensure your code does not have any errors or warnings before pushing it to Travis-CI.
 * Make sure your last push to GitHub is before the deadline. Submissions after the deadline will not be possible. Your last push will be considered as your final submission.
 * Post questions (not solutions) to the assignment channel on discord
 * Please contact module staff if you run into issues.
